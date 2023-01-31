@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vassilis-stath
 - 👀 I’m interested in SPFx
-- 🌱 I’m currently and always learning 
+- 🌱 I’m currently and always be learning 
 
 <!---
 vassilis-stath/vassilis-stath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
